@@ -1,2 +1,2 @@
 # template
-Some placeholder rust crates
+Some placeholder rust crates.
