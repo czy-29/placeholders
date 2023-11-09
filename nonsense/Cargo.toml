@@ -6,8 +6,8 @@ license = "MIT/Apache-2.0"
 readme = "README.md"
 keywords = ["placeholder", "nonsense"]
 categories = ["development-tools"]
-repository = "https://github.com/czy-29/placeholders"
-homepage = "https://github.com/czy-29/placeholders"
+repository = "https://github.com/czy-29/placeholders/tree/main/nonsense"
+homepage = "https://github.com/czy-29/placeholders/tree/main/nonsense"
 documentation = "https://docs.rs/nonsense"
 description = """
 Some placeholder rust crates.

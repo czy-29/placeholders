@@ -6,8 +6,8 @@ license = "MIT/Apache-2.0"
 readme = "README.md"
 keywords = ["placeholder", "template"]
 categories = ["development-tools"]
-repository = "https://github.com/czy-29/placeholders"
-homepage = "https://github.com/czy-29/placeholders"
+repository = "https://github.com/czy-29/placeholders/tree/main/template"
+homepage = "https://github.com/czy-29/placeholders/tree/main/template"
 documentation = "https://docs.rs/template"
 description = """
 Some placeholder rust crates.
