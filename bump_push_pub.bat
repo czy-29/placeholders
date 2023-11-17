@@ -17,7 +17,7 @@ cd ../
 cd nonsense
 cargo set-version --bump minor
 git add .
-git commit -m "bump meaningless"
+git commit -m "bump nonsense"
 git push
 cargo publish
 cd ../
